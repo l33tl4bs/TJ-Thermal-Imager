@@ -1,4 +1,4 @@
-TJ-Thermal-Jack-
+TJ-Thermal-Imager
 ================
 
 TJ (Thermal Jack) - $99 Thermal Imager 
