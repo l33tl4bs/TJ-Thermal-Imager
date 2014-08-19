@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[glcanvas parse_msg_rx::]:glcanvas.m">
+      </ContextState>
+      <ContextState
+         contextName = "MLX620_CalcCommonParams:MLX620_API.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "MLX620_Ai">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[TJ_GLview sharedInstance]:TJ_GLview.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myInstance.IRarray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[glcanvas updateLabelText::]:glcanvas.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pIRtempK">
+            </PersistentString>
+            <PersistentString
+               value = "MLX620_RAMbuff">
+            </PersistentString>
+            <PersistentString
+               value = "temp_aux">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "performRender(void*, unsigned long*, AudioTimeStamp const*, unsigned long, unsigned long, AudioBufferList*):AudioController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "diffs">
+            </PersistentString>
+            <PersistentString
+               value = "d01">
+            </PersistentString>
+            <PersistentString
+               value = "ds0">
+            </PersistentString>
+            <PersistentString
+               value = "d23">
+            </PersistentString>
+            <PersistentString
+               value = "d12">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MLX620_CalcToKelvin:MLX620_API.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "dOffsetBScale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[glcanvas compensate_pixels]:glcanvas.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "comp">
+            </PersistentString>
+            <PersistentString
+               value = "pIRtempK">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[glcanvas updateColors]:glcanvas.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pIRtempK">
+            </PersistentString>
+            <PersistentString
+               value = "Ta">
+            </PersistentString>
+            <PersistentString
+               value = "aVCP">
+            </PersistentString>
+            <PersistentString
+               value = "eepromData">
+            </PersistentString>
+            <PersistentString
+               value = "MLX620_CyclopsData">
+            </PersistentString>
+            <PersistentString
+               value = "MLX620_DLastTa">
+            </PersistentString>
+            <PersistentString
+               value = "temp_aux">
+            </PersistentString>
+            <PersistentString
+               value = "colorArrayTemp">
+            </PersistentString>
+            <PersistentString
+               value = "sensorData">
+            </PersistentString>
+            <PersistentString
+               value = "MLX620_TGC">
+            </PersistentString>
+            <PersistentString
+               value = "MinTemp">
+            </PersistentString>
+            <PersistentString
+               value = "MLX620_RAMbuff">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[glcanvas updatefbufColors]:glcanvas.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ir_fbuf">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PerformThru(void*, unsigned long*, AudioTimeStamp const*, unsigned long, unsigned long, AudioBufferList*):HiJackMgr.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "values">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TJ_GLview updateColors]:TJ_GLview.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[glcanvas calibrate_pixels]:glcanvas.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "MLX620_Alphai">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[glcanvas update]:glcanvas.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ir_fbuf">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
